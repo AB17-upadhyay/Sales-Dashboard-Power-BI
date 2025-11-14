@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Dashboard-Power-BI
+# Sales-Dashboard-Power-BI
 The goal of this dashboard is to analyze sales performance across multiple dimensions and help businesses identify growth opportunities.
 The Power BI report includes KPIs, trend analysis, and drill-down visualizations that enable users to explore sales data interactively.
 
